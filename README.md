@@ -8,3 +8,4 @@ Advent of Code - 2023
 ![](https://img.shields.io/badge/days%20completed-1-red)
 
 View [Day 1 Solution](1/README.md)
+View [Day 2 Solution](2/README.md)
